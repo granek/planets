@@ -2,12 +2,7 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 
-making edits on local computer to test stash
-more edits 
+This edit is in another planets. 
 
-and more edits
+I will commit this change
 
-a second edit that should conflict with stash
-Adding lines I am going to stash
-some more stashables
-and more
