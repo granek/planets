@@ -8,3 +8,6 @@ more edits
 and more edits
 
 a second edit that should conflict with stash
+Adding lines I am going to stash
+some more stashables
+and more
