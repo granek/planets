@@ -7,3 +7,4 @@ more edits
 
 and more edits
 
+a second edit that should conflict with stash
